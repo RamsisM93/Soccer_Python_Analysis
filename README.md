@@ -24,6 +24,6 @@ $H_A$ : The mean number of goals scored in women's international soccer matches 
 
 ## Result
 
-![Resultant Graph](image.png)
+![Resultant Graph](image-1.png)
 
 **With p-value of 0.005106609825443641, the result is reject the null hypothesis**
